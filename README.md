@@ -1,4 +1,4 @@
-# Node.js Deployment
+# Node.js Deployment 🪰🪰
   Steps to deploy a Node.js app to DigitalOcean using PM2, NGINX as a reverse proxy and SSL from LetsEncrypt
 
 # 1. Create Free AWS Account
@@ -58,7 +58,7 @@
 # Check NGINX config
     sudo nginx -t
 
-# Restart NGINX
+# Restart NGINX 💯💯
     sudo nginx -s reload
 
 
@@ -68,7 +68,7 @@
     sudo apt-get install python3-certbot-nginx
     sudo certbot --nginx -d yourdomain.com -d www.yourdomain.com
 
-# Only valid for 90 days, test the renewal process with
+# Only valid for 90 days, test the renewal process with 🔐🔐
     certbot renew --dry-run
 
     

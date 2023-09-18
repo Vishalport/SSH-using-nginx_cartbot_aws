@@ -1,2 +1,2 @@
-# SSH-using-nginx_cartbot_aws
- Let’s Encrypt SSL certificates with your Nginx instance in Amazon
+# Node.js Deployment
+##Steps to deploy a Node.js app to DigitalOcean using PM2, NGINX as a reverse proxy and an SSL ##from LetsEncrypt
